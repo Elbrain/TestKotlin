@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TestKotlin</string>
+    <string name="first_app">First app!</string>
+    <string name="generate_random_number">Generate random number!</string>
+    <string name="generate">Generate</string>
+    <string name="add_person">Add person:</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="add">Add</string>
+    <string name="persons_created">Persons created:</string>
 </resources>
